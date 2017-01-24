@@ -1,1 +1,2 @@
 hello this is testing message
+This is second day testing for cloning
